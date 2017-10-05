@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1503248487 source:/home/mary/Escritorio/Servidor/src/rmRef_H.cpp
+	"rmRef_H.h"
+	<cstddef>
+
+1506904830 /home/mary/Escritorio/Servidor/include/rmRef_H.h
+
+1507188184 source:/home/mary/Escritorio/Servidor/main.cpp
+	<iostream>
+	"rmRef_H.h"
+	"Lista.h"
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
+1507188184 source:/home/mary/Escritorio/Servidor/src/Lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1507184721 /home/mary/Escritorio/Servidor/include/Lista.h
+	"Nodo.h"
+	"rmRef_H.h"
+	<cstddef>
+
+1505945348 /home/mary/Escritorio/Servidor/include/Nodo.h
+	<cstddef>
+	"rmRef_H.h"
+
+1505945348 source:/home/mary/Escritorio/Servidor/src/Nodo.cpp
+	"Nodo.h"
+	<cstddef>
+

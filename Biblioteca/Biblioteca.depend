@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1505881107 source:/home/mary/Escritorio/Biblioteca/main.cpp
+	<iostream>
+	"rmlib.h"
+	"rmRef_H.h"
+
+1505875486 source:/home/mary/Escritorio/Biblioteca/src/rmRef_H.cpp
+	"rmRef_H.h"
+	<iostream>
+
+1505875476 /home/mary/Escritorio/Biblioteca/include/rmRef_H.h
+
+1502672560 source:/home/mary/Escritorio/Biblioteca/src/rmlib.cpp
+	"rmlib.h"
+
+1505943543 /home/mary/Escritorio/Biblioteca/include/rmlib.h
+	"rmRef_H.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<netdb.h>
+	<thread>
+
